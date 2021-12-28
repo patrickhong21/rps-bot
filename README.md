@@ -2,7 +2,9 @@
 Simple Rock Paper Scissors Discord Bot
 
 # How to use
-You must first add in your discord token at the bottom of the file.
+First download the script. This script uses the ``discord`` package. You can install that with
+```pip install discord```
+Then, add in your discord token at the bottom of the file.
 
 ## Commands
 ``$rock`` chooses rock. \
