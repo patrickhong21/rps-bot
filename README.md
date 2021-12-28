@@ -5,3 +5,6 @@ Simple Rock Paper Scissors Discord Bot
 You must first add in your discord token at the bottom of the file.
 
 ## Commands
+``$rock`` chooses rock.
+``$paper`` chooses paper.
+``$scissors`` chooses scissors.
